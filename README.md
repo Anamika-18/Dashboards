@@ -16,9 +16,8 @@ Designed to present key insights in a simple and professional layout
 
 🔹 In this Repository
 
-I have uploaded 3 Dashboard I made using excel. All three of they convey a stroy and give meaningful insight 
-Dashboard_1 gives you analysis on protien vs muscle gains.
-Other 2 are made by taking raw data from online resources and using they to test my skills.
+I have uploaded 2 Dashboard I made using excel. Both of them convey a stroy and give meaningful insight ,
+made by taking raw data from online resources and using they to test my skills.
 
 🔹 Why this project?
 
